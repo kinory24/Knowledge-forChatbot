@@ -1,4 +1,4 @@
 # Knowledge-ChatBot for PhD
-Contains .txt and .pdf files to provide to a personal chatbot and affect its personal knowledge on topic.
+Talk to PDFs in the sense of making up a personal ChatBot. This should be able to retrieve knowledge from a customized list of documents and answer to the user's query.
 
-Also contains the code for doing a personal ChatBot which is trained on the material used for the bibliographic review on Single-Pilot Operations. 
+The will is to keep this application free. 
